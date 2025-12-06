@@ -19,13 +19,6 @@ The branch has been created locally and contains:
 
 After this PR is merged, you can push the branch to remote with:
 ```bash
-git fetch origin
-git checkout toolchangerconfig  
-git push -u origin toolchangerconfig
-```
-
-Alternatively, from the repository root:
-```bash
 git checkout toolchangerconfig
 git push -u origin toolchangerconfig
 ```
